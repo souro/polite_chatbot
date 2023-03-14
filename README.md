@@ -1,2 +1,3 @@
-# polite_chatbot_tst_application
-Polite Chatbot: A Text Style Transfer Application
+# Polite Chatbot: A Text Style Transfer Application
+
+Code will be released soon.
