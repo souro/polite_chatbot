@@ -11,6 +11,14 @@ Our method: We (1) train the politeness transfer model; (2) generate synthetic t
   <img src="image/Polite_Chatbot_Arch.png"/>
 </p>
 
+## Walkthrough
+
+### Dependency
+
+    pip install -r requirements.txt
+
+* Will add more information in this section soon. 
+
 ## License
 
     Author: Sourabrata Mukherjee
